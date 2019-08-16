@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: TERASOLUNA Server Framework for Java (5.x) Web B
+ lank Project
+Implementation-Version: 1.0.0-SNAPSHOT
+Archiver-Version: Plexus Archiver
+Built-By: bs91010
+Implementation-Vendor-Id: todo
+Created-By: Apache Maven 3.6.0
+Build-Jdk: 1.8.0_201
+Implementation-Vendor: TERASOLUNA Framework Team
+
